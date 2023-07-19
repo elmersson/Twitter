@@ -8,7 +8,7 @@ It has alot of feautures that will handle to most basic user interactions and is
 
 ## Tech Stack
 
-**Project**: Figma, Linear.app
+**Project**: Github, Figma, Linear
 
 ## Project parts
 
