@@ -14,5 +14,5 @@ It has alot of feautures that will handle to most basic user interactions and is
 
 | Part | Tools     | Repository                                                   | 
 | ---- | --------- | -------------------------------------------------------------| 
-| Frontend   | Expo  | [Twitter-UI](https://github.com/elmersson/Twitter-UI)        |
-| Backend   | Prisma   | [TwitterBackend](https://github.com/elmersson/TwitterBackend)|   
+| Frontend   | React Native, Expo  | [Twitter-UI](https://github.com/elmersson/Twitter-UI)        |
+| Backend   | Node.js, Express, Prisma, AWS (SES, EC2 & RDS)   | [TwitterBackend](https://github.com/elmersson/TwitterBackend)|   
