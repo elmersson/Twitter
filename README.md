@@ -8,7 +8,9 @@ It has alot of feautures that will handle to most basic user interactions and is
 
 ## Tech Stack
 
-**Project**: Github, Figma, Linear
+**Project**: Github, Linear, Figma
+**Backend**: Node.js, Express, Prisma, AWS (SES, EC2 & RDS)
+**Frontend**: React Native, Expo
 
 ## Project parts
 
